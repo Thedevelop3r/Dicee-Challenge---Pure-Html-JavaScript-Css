@@ -10,7 +10,7 @@ let playerOneScore = Math.floor(Math.random() * 6) + 1;
 let playerTwoScore = Math.floor(Math.random() * 6) + 1;
 // ------------------------------------------------------
 // ------------------------------------------------------
-console.log(playerOneScore + " : " + playerTwoScore);
+// console.log(playerOneScore + " : " + playerTwoScore);
 // names of dice images Array
 let diceImages = [
   "Not Index",

@@ -1,3 +1,4 @@
+function rollDice(){
 /*
 .   dice.js
 .   dicee.html
@@ -56,3 +57,5 @@ if (playerOne) {
     h1.firstElementChild.innerText = "Refresh Me!";
   }, 2000);
 }
+}
+// function end here.
